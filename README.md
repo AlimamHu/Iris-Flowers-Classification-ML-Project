@@ -1,2 +1,3 @@
 # Iris-Flowers-Classification-ML-Project
-Multiple Project combine into One Project 
+Please open in colab :)
+because it is easy to read in colab
